@@ -6,7 +6,7 @@ These rules are © Copyright the English Tiddlywinks Association. The English Ti
 
 Information on the English Tiddlywinks Association can be found on the web site www.etwa.org.
 
-This version of rules was approved at the ETwA Rules Meeting in April 2012.
+This version of rules was approved at the ETwA Rules Meeting in April 2013.
 
 ## Introduction
 
@@ -254,7 +254,7 @@ This version of rules was approved at the ETwA Rules Meeting in April 2012.
 
 22.5.1 The turn in which a freeing shot is played should be completed. For instance, if green and yellow are squopped up and blue plays a shot that simultaneously pots a blue wink and frees a green wink, then blue does play another shot in that turn even though squop-up turns have come to an end.
 
-22.5.2 After a freeing shot, until the partnership that had been squopped up starts a turn with a free wink of the colour to be played, the squopping partnership must leave at least one opponent wink free at the end of each turn. Further, until the partnership that had been squopped up starts a turn with a free wink of the colour to be played, if an opponent wink of the colour due to begin a turn next is free at the end of any shot, then at least one wink of this colour must be left free at the end of the turn.
+22.5.2 The following apply after a freeing shot until the partnership that had been squopped up starts a turn with a free wink of the colour to be played. Firstly, the squopping partnership must leave at least one opponent wink free at the end of each turn. Secondly, if, at the start of any shot by the squopping partnership, there is a free wink of the opposing colour scheduled to begin a turn next, then at least one wink of that colour must be left free at the end of the current turn.
 
 22.5.3 Having a turn with a free wink constitutes having the opportunity to play a shot, even if no shot can be played owing to forfeiture of a shot by Rule 14.
 
