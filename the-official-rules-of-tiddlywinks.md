@@ -1,12 +1,12 @@
 # The Official Rules of Tiddlywinks
 
-As approved by the English Tiddlywinks Association and recommended for use by the International Federation of Tiddlywinks Associations
+As approved by the English Tiddlywinks Association and sanctioned for use by the North American Tiddlywinks Association and the International Federation of Tiddlywinks Associations.
 
 These rules are © Copyright the English Tiddlywinks Association. The English Tiddlywinks Association permits copying of the rules provided that (1) this copyright notice is retained together with attribution to the English Tiddlywinks Association; (2) copying is only for non-commercial purposes; (3) no derivative works are based on these rules.
 
 Information on the English Tiddlywinks Association can be found on the web site www.etwa.org.
 
-This version of rules was approved at the ETwA Rules Meeting on 25 April 2004. A modification to the “notes and guidance” was made at ETwA Congress on 30 April 2005.
+This version of rules was approved at the ETwA Rules Meeting on 24 April 2010.
 
 ## Introduction
 
@@ -98,7 +98,7 @@ This version of rules was approved at the ETwA Rules Meeting on 25 April 2004. A
 
 13. For a particular shot to be legal, the player must exert downward pressure of squidger onto a free wink of the colour to be played.
 
-13.1 The colour to be played is that whose turn it is, except for the special case of a free shot with a nominated colour described in Rule 27.5.
+13.1 The colour to be played is that whose turn it is, except for the special case of a free shot with a nominated colour described in Rule 27.6.
 
 13.2 Winks behind baselines must be played one at a time, and from a position where they rest only on the mat.
 
@@ -196,51 +196,53 @@ This version of rules was approved at the ETwA Rules Meeting on 25 April 2004. A
 
 27. Squop-Up Turns
 
-27.1 If, at the end of a turn, a partnership has no free winks (owing to all its unpotted winks being squopped), that partnership is said to be “squopped up”. The opposing partnership is then entitled to a number of “squop-up turns”.
+27.1 If, at the end of a turn (which may consist of more than one shot: see Rule 15), a partnership has no free winks (owing to all its unpotted winks being squopped), that partnership is said to be “squopped up”. The opposing partnership is then entitled to a number of “squop-up turns”.
 
-27.1.1 A "flat wink" is a free wink on the field of play that is not squopping (i.e. one that has been played from behind the baseline but that is not potted, squopped or squopping). The number of squop-up turns is equal to the number of flat winks plus one.
+27.2 The number of squop-up turns is equal to one more than the number of winks on the field of play that are neither squopped nor squopping.
 
-27.1.2 In the special case that there are no flat winks and the colour of the squopping partnership that is next in colour sequence has no free winks, then the number of squop-up turns is two.
+27.2.1 The number of squop-up turns is calculated immediately after the turn that caused the squop-up to occur.
 
-27.1.3 The number of squop-up turns is calculated immediately after the turn that caused the squop-up to occur.
+27.2.2 Winks that have not been played from behind the baseline, and winks that have been potted, are not on the field of play and so are not counted when calculating the number of squop-up turns.
 
-27.2 Squop-up turns are turns shared between the two colours of the squopping partnership. The squop-up turns are played using the normal sequence of colours.
+27.2.3 In the special case that there are no winks on the field of play that are neither squopped nor squopping, and the colour of the squopping partnership that is next in colour sequence has no free winks, then the number of squop-up turns is two.
 
-27.2.1 If one of the squopping partnership colours cannot play a wink during a particular turn (owing to having no free winks or the forfeiture of a shot according to Rule 19), then this counts as a turn when determining how many squop-up turns have been played.
+27.3 Squop-up turns are turns shared between the two colours of the squopping partnership. The squop-up turns are played using the normal sequence of colours.
 
-27.2.2 The squopped-up partnership has no free winks with which to play during squop-up turns. If one of the squopped-up partnership colours is due to forfeit a shot by Rule 19, then this forfeiture is deemed to have occurred if that colour’s turn takes place during the squop-up turns.
+27.3.1 If one of the squopping partnership colours cannot play a wink during a particular turn (owing to having no free winks or the forfeiture of a shot according to Rule 19), then this counts as a turn when determining how many squop-up turns have been played.
 
-27.2.3 If the timed period of the game (Rule 22) had ended before the squop-up occurred, then the squop-up turns are part of the normal counting of rounds in the round limit period of the game (Rule 23).
+27.3.2 The squopped-up partnership has no free winks with which to play during squop-up turns. If one of the squopped-up partnership colours is due to forfeit a shot by Rule 19, then this forfeiture is deemed to have occurred if that colour’s turn takes place during the squop-up turns.
 
-27.2.4 If the timed period of the game (Rule 22) ends during squop-up turns, it is deemed to have elapsed immediately before the first turn in which a member of the squopped-up partnership has a free wink of the colour to be played.
+27.3.3 If the timed period of the game (Rule 22) had ended before the squop-up occurred, then the squop-up turns are part of the normal counting of rounds in the round limit period of the game (Rule 23).
 
-27.3 Before the squop-up turns have been completed, the squopping partnership must play a freeing shot.
+27.3.4 If the timed period of the game (Rule 22) ends during squop-up turns, it is deemed to have elapsed immediately before the first turn in which a member of the squopped-up partnership has a free wink of the colour to be played.
 
-27.3.1 A freeing shot is a shot that leaves an opponent with a free wink, one that pots the sixth wink of any colour, or one that terminates the game according to Rule 26.
+27.4 Before the squop-up turns have been completed, the squopping partnership must play a freeing shot.
 
-27.3.2 In rare situations, the squopping partnership may be unable to play a freeing shot when required owing to forfeiture of a shot by Rule 19. This does constitute a failure to free.
+27.4.1 A freeing shot is a shot that leaves an opponent with a free wink, one that pots the sixth wink of any colour, or one that terminates the game according to Rule 26.
 
-27.3.3 If the round limit period is completed before a freeing shot is required, then the game ends (as described in Rule 24) and there is no requirement to play a freeing shot.
+27.4.2 In rare situations, the squopping partnership may be unable to play a freeing shot when required owing to forfeiture of a shot by Rule 19. This does constitute a failure to free.
 
-27.4 Once a freeing shot has been played, squop-up turns come to an end, regardless of whether the full number of squop-up turns were played or not. The squopped-up partnership must be given an opportunity to play a shot once one of its winks is freed.
+27.4.3 If the round limit period is completed before a freeing shot is required, then the game ends (as described in Rule 24) and there is no requirement to play a freeing shot.
 
-27.4.1 The turn in which a freeing shot is played should be completed. For instance, if green and yellow are squopped up and blue plays a shot that simultaneously pots a blue wink and frees a green wink, then blue does play another shot in that turn even though squop-up turns have come to an end.
+27.5 Once a freeing shot has been played, squop-up turns come to an end, regardless of whether the full number of squop-up turns were played or not. The squopped-up partnership must be given an opportunity to play a shot once one of its winks is freed.
 
-27.4.2 After a freeing shot, until the partnership that had been squopped up starts a turn with a free wink of the colour to be played, the squopping partnership must leave at least one opponent wink free at the end of each turn. Further, until the partnership that had been squopped up starts a turn with a free wink of the colour to be played, if an opponent wink of the colour due to begin a turn next is free at the end of any shot, then at least one wink of this colour must be left free at the end of the turn.
+27.5.1 The turn in which a freeing shot is played should be completed. For instance, if green and yellow are squopped up and blue plays a shot that simultaneously pots a blue wink and frees a green wink, then blue does play another shot in that turn even though squop-up turns have come to an end.
 
-27.4.3 Having a turn with a free wink constitutes having the opportunity to play a shot, even if no shot can be played owing to forfeiture of a shot by Rule 19.
+27.5.2 After a freeing shot, until the partnership that had been squopped up starts a turn with a free wink of the colour to be played, the squopping partnership must leave at least one opponent wink free at the end of each turn. Further, until the partnership that had been squopped up starts a turn with a free wink of the colour to be played, if an opponent wink of the colour due to begin a turn next is free at the end of any shot, then at least one wink of this colour must be left free at the end of the turn.
 
-27.4.4 It is not required that the partnership that had been squopped up have the opportunity to play a shot if the game ends first (by the situation described in Rule 24 or Rule 26). Similarly, it is not required that the freed colour has the opportunity to play a shot if any colour becomes potted out before the freed colour has the opportunity to play.
+27.5.3 Having a turn with a free wink constitutes having the opportunity to play a shot, even if no shot can be played owing to forfeiture of a shot by Rule 19.
 
-27.5 If a freeing shot is not played as required by Rule 27.3, or the opponents are not given the opportunity to play a shot once one of their winks is freed as required by Rule 27.4, then the situation is referred to as a “failure to free”.
+27.5.4 It is not required that the partnership that had been squopped up have the opportunity to play a shot if the game ends first (by the situation described in Rule 24 or Rule 26). Similarly, it is not required that the freed colour has the opportunity to play a shot if any colour becomes potted out before the freed colour has the opportunity to play.
 
-27.5.1 For the first shot of the turn following the failure to free the person due to play the next colour is awarded a “free shot with a nominated colour”. The person shall nominate a colour that has a free wink. For that shot the nominated colour may be played as if it was the person’s normal colour.
+27.6 If a freeing shot is not played as required by Rule 27.4, or the opponents are not given the opportunity to play a shot once one of their winks is freed as required by Rule 27.5, then the situation is referred to as a “failure to free”.
 
-27.5.2 If, in the playing of a free shot with a nominated colour, a wink of either the nominated colour or the person’s normal colour is potted, then the person gets another shot as part of the same turn. The person can continue the turn by playing any of his or her normal colour winks freed by the previous shot. Note that at the end of the game, winks in the pot count for their actual colour, regardless of who potted them.
+27.6.1 For the first shot of the turn following the failure to free the person due to play the next colour is awarded a “free shot with a nominated colour”. The person shall nominate a colour that has a free wink. For that shot the nominated colour may be played as if it was the person’s normal colour.
 
-27.5.3 If, in the playing of a free shot with a nominated colour, a wink of either the nominated colour or the person’s normal colour wholly or partially leaves the playing volume during the shot, then the person forfeits the next shot to be played with his or her normal colour.
+27.6.2 If, in the playing of a free shot with a nominated colour, a wink of either the nominated colour or the person’s normal colour is potted, then the person gets another shot as part of the same turn. The person can continue the turn by playing any of his or her normal colour winks freed by the previous shot. Note that at the end of the game, winks in the pot count for their actual colour, regardless of who potted them.
 
-27.5.4 If the failure to free occurs on the final turn of the fifth round of the round limit period, then the next colour in sequence shall be entitled to one extra turn, starting with a free shot with a nominated colour.
+27.6.3 If, in the playing of a free shot with a nominated colour, a wink of either the nominated colour or the person’s normal colour wholly or partially leaves the playing volume during the shot, then the person forfeits the next shot to be played with his or her normal colour.
+
+27.6.4 If the failure to free occurs on the final turn of the fifth round of the round limit period, then the next colour in sequence shall be entitled to one extra turn, starting with a free shot with a nominated colour.
 
 28. Foul Shots
 
@@ -298,7 +300,6 @@ This version of rules was approved at the ETwA Rules Meeting on 25 April 2004. A
 
 ## Notes and Guidance
 
-
 A. Unsatisfactory playing area
 
 A.1 If the playing area is unsatisfactory owing to bumps, ridges, cracks and so on in the underlying surface, then the players should agree before the game commences what action is to be taken to alleviate the effects of the surface’s irregularities. In these circumstances, it is permissible temporarily to move the mat so that a wink is no longer resting on a flaw in the underlying surface, the mat being replaced in its former position after the shot has been played. Alternatively, the wink itself may be manually moved, while remaining the same distance from the pot, so that it no longer rests on the flaw. Whatever action is taken, the pot should remain at the centre of the mat.
@@ -339,35 +340,33 @@ F.3 It is traditional for games that involved pot-outs to be marked by asterisks
 
 G. Examples of the squop-up turns rule
 
-G.1 Blue has a turn that causes all the green and yellow winks to become squopped. One blue wink and one red wink are not involved in piles but have been brought in and are unpotted. There are thus three squop-up turns (Rule 27.1.1). Green cannot play a wink. Red plays the first squop-up turn and this does not free an opponent wink. Yellow cannot play a wink. Blue plays the second squop-up turn and this does not free an opponent wink. Green cannot play a wink. Red must then ensure that at least one opponent wink (green or yellow) is free at the end of his or her turn (Rule 27.3). If red frees a yellow wink, then yellow will be able to play a wink during his or her turn. If red frees a green wink and no yellow winks, then yellow cannot play a wink, but blue must leave at least one green wink free at the end of blue’s turn (Rule 27.4.2).
+G.1 Blue has a turn that causes all the green and yellow winks to become squopped. One blue wink and one red wink are not involved in piles but have been brought in and are unpotted. There are thus three squop-up turns (Rule 27.2). Green cannot play a wink. Red plays the first squop-up turn and this does not free an opponent wink. Yellow cannot play a wink. Blue plays the second squop-up turn and this does not free an opponent wink. Green cannot play a wink. Red must then ensure that at least one opponent wink (green or yellow) is free at the end of his or her turn (Rule 27.4). If red frees a yellow wink, then yellow will be able to play a wink during his or her turn. If red frees a green wink and no yellow winks, then yellow cannot play a wink, but blue must leave at least one green wink free at the end of blue’s turn (Rule 27.5.2).
 
-G.2 Blue has a turn that causes all the green and yellow winks to become squopped. One blue wink and one red wink are not involved in piles but have been brought in and are unpotted. There are thus three squop-up turns. Green cannot play a wink. Red plays the first squop-up turn and this frees a green wink and no yellow winks. Because a freeing shot was played, squop-up turns are deemed to have come to an end (Rule 27.4). Yellow still has no free winks and so cannot play a wink. Blue must leave at least one green wink free at the end of blue’s turn.
+G.2 Blue has a turn that causes all the green and yellow winks to become squopped. One blue wink and one red wink are not involved in piles but have been brought in and are unpotted. There are thus three squop-up turns. Green cannot play a wink. Red plays the first squop-up turn and this frees a green wink and no yellow winks. Because a freeing shot was played, squop-up turns are deemed to have come to an end (Rule 27.5). Yellow still has no free winks and so cannot play a wink. Blue must leave at least one green wink free at the end of blue’s turn.
 
-G.3 Blue has a turn that causes all the green and yellow winks to become squopped. All the free blues are involved in piles, and there are no free red winks. There are thus two squop-up turns because this is the special situation detailed in Rule 27.1.2. Green cannot play a wink. Red cannot play a wink but this counts as the first squop-up turn. Yellow cannot play a wink. Blue must then ensure that at least one opponent wink (green or yellow) is free at the end of his or her next turn.
+G.3 Blue has a turn that causes all the green and yellow winks to become squopped. All the free blues are involved in piles, and there are no free red winks. There are thus two squop-up turns because this is the special situation detailed in Rule 27.2.3. Green cannot play a wink. Red cannot play a wink but this counts as the first squop-up turn. Yellow cannot play a wink. Blue must then ensure that at least one opponent wink (green or yellow) is free at the end of his or her next turn.
 
-G.4 Red sends a red wink off the mat. After yellow’s turn, blue has a turn that causes all the green and yellow winks to become squopped. There are free blue and free red winks but they are all involved in piles. There is thus one squop-up turn. Green cannot play a wink. Red is due to play a freeing shot by Rule 27.3. However, red must forfeit a shot for going off the mat (Rule 19), and so cannot play a wink this turn. This therefore constitutes a failure to free (Rule 27.3.2) and yellow is awarded a free shot with a nominated colour (Rule 27.5).
+G.4 Red sends a red wink off the mat. After yellow’s turn, blue has a turn that causes all the green and yellow winks to become squopped. There are free blue and free red winks but they are all involved in piles. There is thus one squop-up turn. Green cannot play a wink. Red is due to play a freeing shot by Rule 27.4. However, red must forfeit a shot for going off the mat (Rule 19), and so cannot play a wink this turn. This therefore constitutes a failure to free (Rule 27.4.2) and yellow is awarded a free shot with a nominated colour (Rule 27.6).
 
-G.5 Green and yellow are squopped up. Blue plays a shot that simultaneously pots a blue wink, frees a green wink and frees a yellow wink. Blue gets another shot in that turn for potting one of his or her winks (Rules 15 and 27.4.1). However, because a green wink became free as a result of the blue shot, blue must ensure that there at least one green wink remains free at the end of blue’s turn (Rule 27.4.2). Blue is permitted to squop the yellow wink freed.
+G.5 Green and yellow are squopped up. Blue plays a shot that simultaneously pots a blue wink, frees a green wink and frees a yellow wink. Blue gets another shot in that turn for potting one of his or her winks (Rules 15 and 27.5.1). However, because a green wink became free as a result of the blue shot, blue must ensure that at least one green wink remains free at the end of blue’s turn (Rule 27.5.2). Blue is permitted to squop the yellow wink freed.
 
 H. Glossary of terms defined in the rules
 
 Baselines: see Rule 3.3.1
 
-Failure to free: see Rule 27.5
+Failure to free: see Rule 27.6
 
 Field of play: see Rule 16
-
-Flat wink: see Rule 27.1.1
 
 Foul shot: see Rule 28.1
 
 Free winks: see Rule 10
 
-Freeing shot: see Rule 27.3.1
+Freeing shot: see Rule 27.4.1
 
 Mat: see Rule 3.3
 
-Nominated colour: see Rule 27.5.1
+Nominated colour: see Rule 27.6.1
 
 Pile: see Rule 9.2
 
@@ -393,7 +392,7 @@ Squopped winks: see Rule 9
 
 Squopping winks: see Rule 9
 
-Squop-up turns: see Rule 27.1
+Squop-up turns: see Rule 27
 
 Tiddlies: see Rule 24
 
