@@ -6,7 +6,7 @@ These rules are © Copyright the English Tiddlywinks Association. The English Ti
 
 Information on the English Tiddlywinks Association can be found on the web site www.etwa.org.
 
-This version of rules was approved at the ETwA Rules Meeting in April 2013.
+This version of rules was approved at the ETwA Rules Meeting in April 2016.
 
 ## Introduction
 
@@ -46,7 +46,7 @@ This version of rules was approved at the ETwA Rules Meeting in April 2013.
 
 2.4 The pot: the container into which winks may be played.
 
-3.4.1 The pot should be a concave-sided cup 38 mm high with an external diameter of 48 mm at the top and 38 mm at the base.
+2.4.1 The pot should be a concave-sided cup 38 mm high with an external diameter of 50 mm at the top and 35 mm at the base.
 
 2.5 Winks, mats and pots approved by National Associations should be used wherever possible.
 
