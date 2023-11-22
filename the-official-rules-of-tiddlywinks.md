@@ -42,7 +42,9 @@ This version of rules was approved at the ETwA Rules Meeting in April 2016.
 
 2.3 The mat: the playing surface on which the game takes place.
 
-2.3.1 Games should be played on rectangular mats measuring 6 feet by 3 feet. Mats should be made of a felt-like non-pile material. At each corner of the mat there should be straight lines termed baselines drawn at right angles to the mat’s diagonals at points 3 feet from the centre of the mat. The mat should be placed on a hard smooth horizontal surface so that the whole of the mat’s surface is itself horizontal. If there is no such surface available, the players may agree to play on a less satisfactory surface (See Note A).
+2.3.1 Games should be played on rectangular mats measuring 180cm by 90cm. Mats should be made of a felt-like non-pile material. At each corner of the mat there should be straight lines termed baselines drawn at right angles to the mat’s diagonals at points 90cm from the centre of the mat. The mat should be placed on a hard smooth horizontal surface so that the whole of the mat’s surface is itself horizontal. If there is no such surface available, the players may agree to play on a less satisfactory surface (See Note A).
+
+2.3.2 Older mats, of size 6 feet by 3 feet, with the baselines drawn 3 feet from the centre, may also be used.
 
 2.4 The pot: the container into which winks may be played.
 
